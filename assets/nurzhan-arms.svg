@@ -1,27 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 142" width="120" height="142">
-<!-- mural crown -->
-<g fill="#d8a92a" stroke="#6b4e10" stroke-width="1.2">
-<path d="M18 26 V12 h10 v6 h8 v-6 h10 v6 h8 v-6 h12 v6 h8 v-6 h10 v6 h8 v-6 h10 V26 Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 250" width="200" height="250">
+<title>Coat of arms of Nurzhan</title>
+<defs>
+<clipPath id="sh"><path d="M30 62 H170 V160 C170 196 140 218 100 228 C60 218 30 196 30 160 Z"/></clipPath>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d36b"/><stop offset="1" stop-color="#c8961f"/></linearGradient>
+</defs>
+<!-- mural crown, three towers -->
+<g fill="url(#gold)" stroke="#5c4010" stroke-width="1.6" stroke-linejoin="round">
+<path d="M42 58 L46 34 H154 L158 58 Z"/>
+<path d="M50 34 V18 H58 V24 H64 V18 H72 V24 H78 V18 H86 V34 Z"/>
+<path d="M86 34 V12 H94 V18 H100 V12 H106 V18 H112 V12 H114 V34 Z"/>
+<path d="M114 34 V18 H122 V24 H128 V18 H136 V24 H142 V18 H150 V34 Z"/>
 </g>
-<!-- shield -->
-<path d="M10 28 H110 V88 C110 116 86 132 60 140 C34 132 10 116 10 88 Z" fill="#1f4fa0" stroke="#0e1f40" stroke-width="2.5"/>
-<!-- red chief with gear -->
-<path d="M11 29 H109 V56 H11 Z" fill="#c41e24"/>
-<g transform="translate(60 42)" fill="#d8a92a" stroke="#6b4e10" stroke-width="1">
-<circle r="9"/>
-<g id="t"><rect x="-2.6" y="-13" width="5.2" height="6"/></g>
-<use href="#t" transform="rotate(45)"/><use href="#t" transform="rotate(90)"/><use href="#t" transform="rotate(135)"/>
-<use href="#t" transform="rotate(180)"/><use href="#t" transform="rotate(225)"/><use href="#t" transform="rotate(270)"/><use href="#t" transform="rotate(315)"/>
-<circle r="3.5" fill="#c41e24"/>
+<g fill="#5c4010"><rect x="64" y="40" width="8" height="12" rx="4"/><rect x="96" y="40" width="8" height="12" rx="4"/><rect x="128" y="40" width="8" height="12" rx="4"/></g>
+<!-- shield field -->
+<g clip-path="url(#sh)">
+<rect x="20" y="50" width="160" height="190" fill="#c41e24"/>
+<rect x="20" y="50" width="160" height="62" fill="#1f4fa0"/>
+<!-- rising sun: nur, the light -->
+<g fill="url(#gold)" stroke="#8a6414" stroke-width="1">
+<path d="M70 112 A30 30 0 0 1 130 112 Z"/>
+<g id="ray"><path d="M100 72 L104 80 L96 80 Z"/></g>
+<use xlink:href="#ray" transform="rotate(-60 100 112)"/><use xlink:href="#ray" transform="rotate(-30 100 112)"/>
+<use xlink:href="#ray" transform="rotate(30 100 112)"/><use xlink:href="#ray" transform="rotate(60 100 112)"/>
+<use xlink:href="#ray" transform="rotate(-80 100 112)"/><use xlink:href="#ray" transform="rotate(80 100 112)"/>
 </g>
-<!-- refinery column and flame -->
-<g fill="#d8a92a" stroke="#6b4e10" stroke-width="1">
-<rect x="54" y="66" width="12" height="40"/>
-<rect x="51" y="74" width="18" height="3"/><rect x="51" y="86" width="18" height="3"/><rect x="51" y="98" width="18" height="3"/>
-<rect x="38" y="80" width="9" height="26"/><rect x="73" y="84" width="9" height="22"/>
+<rect x="20" y="111" width="160" height="3" fill="#f3d36b"/>
+<!-- gear wheel with refinery column -->
+<g transform="translate(100 150)">
+<g fill="url(#gold)" stroke="#5c4010" stroke-width="1.4">
+<circle r="26"/>
+<g id="tooth"><rect x="-5" y="-34" width="10" height="10" rx="1"/></g>
+<use xlink:href="#tooth" transform="rotate(30)"/><use xlink:href="#tooth" transform="rotate(60)"/><use xlink:href="#tooth" transform="rotate(90)"/>
+<use xlink:href="#tooth" transform="rotate(120)"/><use xlink:href="#tooth" transform="rotate(150)"/><use xlink:href="#tooth" transform="rotate(180)"/>
+<use xlink:href="#tooth" transform="rotate(210)"/><use xlink:href="#tooth" transform="rotate(240)"/><use xlink:href="#tooth" transform="rotate(270)"/>
+<use xlink:href="#tooth" transform="rotate(300)"/><use xlink:href="#tooth" transform="rotate(330)"/>
 </g>
-<path d="M60 52 C66 58 66 63 60 66 C54 63 55 58 60 52 Z" fill="#ff9a1f" stroke="#a1400a" stroke-width="1"/>
-<!-- the Chu -->
-<path d="M18 112 C28 106 36 118 46 112 S64 106 74 112 S92 118 102 112" fill="none" stroke="#fff" stroke-width="4"/>
-<path d="M28 122 C36 117 42 127 52 122 S68 117 76 122 S88 127 94 122" fill="none" stroke="#fff" stroke-width="3"/>
+<circle r="17" fill="#c41e24" stroke="#5c4010" stroke-width="1.2"/>
+<g fill="#f6f1e4" stroke="#5c4010" stroke-width="1"><rect x="-4" y="-15" width="8" height="28"/><rect x="-7" y="-9" width="14" height="2.5"/><rect x="-7" y="0" width="14" height="2.5"/></g>
+</g>
+<!-- the Chu: wavy silver bars -->
+<g fill="none" stroke-width="7">
+<path d="M20 196 C35 188 50 204 65 196 S95 188 110 196 S140 204 155 196 S175 190 185 196" stroke="#f6f1e4"/>
+<path d="M20 212 C35 204 50 220 65 212 S95 204 110 212 S140 220 155 212 S175 206 185 212" stroke="#1f4fa0"/>
+</g>
+</g>
+<path d="M30 62 H170 V160 C170 196 140 218 100 228 C60 218 30 196 30 160 Z" fill="none" stroke="#5c4010" stroke-width="4"/>
+<path d="M36 68 H164 V160 C164 192 137 212 100 221 C63 212 36 192 36 160 Z" fill="none" stroke="#f3d36b" stroke-width="1.5"/>
+<!-- motto ribbon -->
+<path d="M18 228 Q100 252 182 228 L188 244 Q100 268 12 244 Z" fill="#1f4fa0" stroke="#5c4010" stroke-width="1.5" transform="translate(0 -8)"/>
+<text x="100" y="243" text-anchor="middle" font-family="'Times New Roman',Times,serif" font-weight="bold" font-size="15" fill="#f3d36b" letter-spacing="3">НУРЖАН</text>
 </svg>
