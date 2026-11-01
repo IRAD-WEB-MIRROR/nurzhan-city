@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nurzhan.iradgov.org/sitemap.xml

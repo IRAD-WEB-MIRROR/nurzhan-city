@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 142" width="120" height="142">
+<!-- mural crown -->
+<g fill="#d8a92a" stroke="#6b4e10" stroke-width="1.2">
+<path d="M18 26 V12 h10 v6 h8 v-6 h10 v6 h8 v-6 h12 v6 h8 v-6 h10 v6 h8 v-6 h10 V26 Z"/>
+</g>
+<!-- shield -->
+<path d="M10 28 H110 V88 C110 116 86 132 60 140 C34 132 10 116 10 88 Z" fill="#1f4fa0" stroke="#0e1f40" stroke-width="2.5"/>
+<!-- red chief with gear -->
+<path d="M11 29 H109 V56 H11 Z" fill="#c41e24"/>
+<g transform="translate(60 42)" fill="#d8a92a" stroke="#6b4e10" stroke-width="1">
+<circle r="9"/>
+<g id="t"><rect x="-2.6" y="-13" width="5.2" height="6"/></g>
+<use href="#t" transform="rotate(45)"/><use href="#t" transform="rotate(90)"/><use href="#t" transform="rotate(135)"/>
+<use href="#t" transform="rotate(180)"/><use href="#t" transform="rotate(225)"/><use href="#t" transform="rotate(270)"/><use href="#t" transform="rotate(315)"/>
+<circle r="3.5" fill="#c41e24"/>
+</g>
+<!-- refinery column and flame -->
+<g fill="#d8a92a" stroke="#6b4e10" stroke-width="1">
+<rect x="54" y="66" width="12" height="40"/>
+<rect x="51" y="74" width="18" height="3"/><rect x="51" y="86" width="18" height="3"/><rect x="51" y="98" width="18" height="3"/>
+<rect x="38" y="80" width="9" height="26"/><rect x="73" y="84" width="9" height="22"/>
+</g>
+<path d="M60 52 C66 58 66 63 60 66 C54 63 55 58 60 52 Z" fill="#ff9a1f" stroke="#a1400a" stroke-width="1"/>
+<!-- the Chu -->
+<path d="M18 112 C28 106 36 118 46 112 S64 106 74 112 S92 118 102 112" fill="none" stroke="#fff" stroke-width="4"/>
+<path d="M28 122 C36 117 42 127 52 122 S68 117 76 122 S88 127 94 122" fill="none" stroke="#fff" stroke-width="3"/>
+</svg>

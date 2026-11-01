@@ -1,0 +1,68 @@
+/* style.css  ver 2.3 (2011)  web-otdel */
+body{margin:0;padding:0;background:#c9d3de url(bg.gif);font-family:Tahoma,Arial,Helvetica,sans-serif;font-size:12px;color:#000}
+a{color:#003399}
+a:hover{color:#cc0000}
+#main{width:1000px;margin:0 auto;background:#fff;border-left:1px solid #8496ab;border-right:1px solid #8496ab}
+#head{height:118px;background:#1c3a70;background:linear-gradient(#2c5aa0,#1c3a70);position:relative;border-bottom:3px solid #c41e24}
+#head img.arms{position:absolute;left:18px;top:9px;width:84px;height:100px}
+#head .t1{position:absolute;left:118px;top:20px;color:#fff;font:bold 25px "Times New Roman",Times,serif;letter-spacing:1px;text-shadow:2px 2px 0 #0b1d3d}
+#head .t2{position:absolute;left:120px;top:56px;color:#ffd75e;font:bold 13px Arial,sans-serif}
+#head .t3{position:absolute;left:120px;top:78px;color:#b8c9e6;font:11px Tahoma,sans-serif}
+#head .strip{position:absolute;right:0;top:0;height:118px;width:284px;overflow:hidden}
+#head .strip img{height:118px;width:140px;object-fit:cover;float:left;opacity:.85;border-left:2px solid #1c3a70}
+#head .top-links{position:absolute;right:8px;bottom:4px;font-size:10px}
+#head .top-links a{color:#fff;margin-left:8px}
+#menu{background:#e3e7ec;border-bottom:1px solid #a7b3c2;padding:3px 4px;font-size:0}
+#menu a{display:inline-block;font:bold 11px Tahoma,sans-serif;color:#1c3a70;text-decoration:none;padding:5px 9px;margin:1px;background:#f4f6f8;border:1px solid #b7c2cf;border-radius:3px}
+#menu a:hover,#menu a.sel{background:#1c3a70;color:#fff}
+#menu a span{display:block;font-weight:normal;font-size:9px;color:#5a6a7d}
+#menu a:hover span,#menu a.sel span{color:#c9d6ea}
+table.layout{width:100%;border-collapse:collapse}
+table.layout td{vertical-align:top}
+td.left{width:190px;background:#f1f3f6;border-right:1px solid #c8d0da;padding:8px}
+td.center{padding:10px 14px}
+td.right{width:200px;background:#f7f7f2;border-left:1px solid #d5d5c8;padding:8px}
+.blk{margin-bottom:12px;border:1px solid #b7c2cf;background:#fff}
+.blk .bh{background:#1c3a70;color:#fff;font:bold 11px Tahoma,sans-serif;padding:3px 6px;text-transform:uppercase}
+.blk .bb{padding:6px;font-size:11px}
+.blk ul{margin:0;padding:0 0 0 14px}
+.blk li{margin:2px 0;list-style:square}
+h1{font:bold 18px "Times New Roman",Times,serif;color:#1c3a70;border-bottom:2px solid #c41e24;margin:0 0 8px;padding-bottom:3px}
+h1 small,h2 small{display:block;font:normal 11px Tahoma,sans-serif;color:#666}
+h2{font:bold 14px Arial,sans-serif;color:#1c3a70;margin:14px 0 4px}
+.news{border-bottom:1px dotted #999;padding:6px 0}
+.news .dt{color:#c41e24;font-weight:bold;font-size:11px}
+.news .ttl{font-weight:bold;font-size:12px}
+.news p{margin:3px 0}
+.more{font-size:11px}
+table.grid{border-collapse:collapse;width:100%;font-size:11px;margin:6px 0}
+table.grid th{background:#dbe2ea;border:1px solid #8496ab;padding:3px 5px;text-align:left}
+table.grid td{border:1px solid #b7c2cf;padding:3px 5px;vertical-align:top}
+table.grid tr.odd td{background:#f5f7fa}
+.nmu{border:2px solid #c41e24;background:#fff2f2;padding:6px;font-size:11px;margin:6px 0}
+.nmu b{color:#c41e24}
+.attn{border:1px solid #e0c060;background:#fffbe0;padding:6px 8px;margin:8px 0;font-size:11px}
+.cnt{font:10px Tahoma;border:1px solid #888;background:#eee;width:88px;margin:4px auto;text-align:center;padding:2px}
+.cnt b{display:block;font:bold 12px "Courier New",monospace;color:#1c3a70}
+#foot{background:#1c3a70;color:#c9d6ea;font-size:10px;padding:8px 14px;border-top:3px solid #c41e24}
+#foot a{color:#fff}
+form.rf td{padding:3px;font-size:11px}
+form.rf input,form.rf select,form.rf textarea{font:11px Tahoma;border:1px solid #7f9db9;width:330px}
+form.rf input[type=submit]{width:auto;padding:2px 10px;background:#e3e7ec}
+.ok{border:1px solid #6a9a3a;background:#f0f8e8;padding:8px;margin-top:8px;display:none}
+.pic{float:right;margin:0 0 8px 10px;border:1px solid #8496ab;padding:2px;background:#fff}
+.pic img{display:block;width:240px}
+.pic span{display:block;font-size:10px;color:#555;padding:2px}
+@media (max-width:1060px){#head .strip{display:none}}
+@media (max-width:1000px){
+  #main{width:auto}
+  #head .strip{display:none}
+  table.layout,table.layout tbody,table.layout tr,table.layout td{display:block;width:auto}
+  td.left,td.right{border:0}
+  #head .t1{font-size:18px;left:100px;right:6px}
+  #head .t2,#head .t3{left:100px}
+  #head img.arms{width:66px;height:78px}
+  form.rf input,form.rf select,form.rf textarea{width:100%}
+  .pic{float:none;margin:0 0 8px}
+  .pic img{width:100%}
+}
