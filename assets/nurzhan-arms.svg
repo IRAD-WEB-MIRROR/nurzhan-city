@@ -1,52 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 250" width="200" height="250">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="36 36 168 234" width="168" height="234">
 <title>Coat of arms of Nurzhan</title>
-<defs>
-<clipPath id="sh"><path d="M30 62 H170 V160 C170 196 140 218 100 228 C60 218 30 196 30 160 Z"/></clipPath>
-<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d36b"/><stop offset="1" stop-color="#c8961f"/></linearGradient>
-</defs>
-<!-- mural crown, three towers -->
-<g fill="url(#gold)" stroke="#5c4010" stroke-width="1.6" stroke-linejoin="round">
-<path d="M42 58 L46 34 H154 L158 58 Z"/>
-<path d="M50 34 V18 H58 V24 H64 V18 H72 V24 H78 V18 H86 V34 Z"/>
-<path d="M86 34 V12 H94 V18 H100 V12 H106 V18 H112 V12 H114 V34 Z"/>
-<path d="M114 34 V18 H122 V24 H128 V18 H136 V24 H142 V18 H150 V34 Z"/>
+<defs><clipPath id="nclip"><path d="M40,40 H200 V196 C200,236 166,254 120,266 C74,254 40,236 40,196 Z"/></clipPath></defs>
+<g clip-path="url(#nclip)"><rect x="36" y="36" width="170" height="240" fill="#c8202a"/>
+<path d="M171.0,228.2 L179.5,233.8 L178.6,239.0 L168.6,241.3 L167.1,245.5 L173.2,253.7 L170.6,258.2 L160.5,257.0 L157.6,260.5 L160.5,270.2 L156.5,273.6 L147.4,269.0 L143.5,271.2 L143.0,281.4 L138.0,283.2 L131.0,275.8 L126.7,276.6 L122.6,285.9 L117.4,285.9 L113.3,276.6 L109.0,275.8 L102.0,283.2 L97.0,281.4 L96.5,271.2 L92.6,269.0 L83.5,273.6 L79.5,270.2 L82.4,260.5 L79.5,257.0 L69.4,258.2 L66.8,253.7 L72.9,245.5 L71.4,241.3 L61.4,239.0 L60.5,233.8 L69.0,228.2 L69.0,223.8 L60.5,218.2 L61.4,213.0 L71.4,210.7 L72.9,206.5 L66.8,198.3 L69.4,193.8 L79.5,195.0 L82.4,191.5 L79.5,181.8 L83.5,178.4 L92.6,183.0 L96.5,180.8 L97.0,170.6 L102.0,168.8 L109.0,176.2 L113.3,175.4 L117.4,166.1 L122.6,166.1 L126.7,175.4 L131.0,176.2 L138.0,168.8 L143.0,170.6 L143.5,180.8 L147.4,183.0 L156.5,178.4 L160.5,181.8 L157.6,191.5 L160.5,195.0 L170.6,193.8 L173.2,198.3 L167.1,206.5 L168.6,210.7 L178.6,213.0 L179.5,218.2 L171.0,223.8 Z M160,226 A40,40 0 1 0 80,226 A40,40 0 1 0 160,226 Z" fill="#f0c02a" fill-rule="evenodd" stroke="#5a3d05" stroke-width="1.2" stroke-linejoin="round"/>
+<path d="M92,214 V140.5 a6.5,6.5 0 0 1 13,0 V214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<path d="M89.5,147 H107.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M89.5,147 H107.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M89.5,161 H107.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M89.5,161 H107.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M89.5,175 H107.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M89.5,175 H107.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M89.5,189 H107.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M89.5,189 H107.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M89.5,203 H107.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M89.5,203 H107.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M95.9,142.5 V212" stroke="#c9ced6" stroke-width="1.4"/>
+<path d="M113,214 V111.5 a7.5,7.5 0 0 1 15,0 V214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<path d="M110.5,119 H130.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M110.5,119 H130.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M110.5,133 H130.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M110.5,133 H130.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M110.5,147 H130.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M110.5,147 H130.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M110.5,161 H130.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M110.5,161 H130.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M110.5,175 H130.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M110.5,175 H130.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M110.5,189 H130.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M110.5,189 H130.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M110.5,203 H130.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M110.5,203 H130.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M117.5,113.5 V212" stroke="#c9ced6" stroke-width="1.4"/>
+<path d="M136,214 V128.5 a6.5,6.5 0 0 1 13,0 V214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<path d="M133.5,135 H151.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M133.5,135 H151.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M133.5,149 H151.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M133.5,149 H151.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M133.5,163 H151.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M133.5,163 H151.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M133.5,177 H151.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M133.5,177 H151.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M133.5,191 H151.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M133.5,191 H151.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M133.5,205 H151.5" stroke="#1a1a1a" stroke-width="1.6"/><path d="M133.5,205 H151.5" stroke="#ffffff" stroke-width=".6"/>
+<path d="M139.9,130.5 V212" stroke="#c9ced6" stroke-width="1.4"/>
+<path d="M105,150 H113 M128,140 H136 M105,184 H113 M128,176 H136" stroke="#1a1a1a" stroke-width="3.4"/><path d="M105,150 H113 M128,140 H136 M105,184 H113 M128,176 H136" stroke="#ffffff" stroke-width="1.8"/>
+<path d="M156,214 V118 h4 V214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1"/>
+<path d="M158,117 C150,110 151,100 156,94 C156,100 159,101 160,98 C161,92 158,88 162,80 C164,90 170,94 168,104 C167,110 164,114 158,117 Z" fill="#f0c02a" stroke="#5a3d05" stroke-width="1.1"/>
+<path d="M158,115 C155,111 155,106 158,102 C159,106 161,106 162,104 C164,108 162,113 158,115 Z" fill="#fff3c4"/>
+<path d="M12,226 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 V626 H12 Z" fill="#1f5ca8"/>
+<path d="M12,235 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 V635 H12 Z" fill="#ffffff"/>
+<path d="M12,244 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 V644 H12 Z" fill="#1f5ca8"/>
+<path d="M12,253 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 V653 H12 Z" fill="#ffffff"/>
+<path d="M12,262 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 q7.0,-4.5 14.0,0 t14.0,0 V662 H12 Z" fill="#1f5ca8"/>
 </g>
-<g fill="#5c4010"><rect x="64" y="40" width="8" height="12" rx="4"/><rect x="96" y="40" width="8" height="12" rx="4"/><rect x="128" y="40" width="8" height="12" rx="4"/></g>
-<!-- shield field -->
-<g clip-path="url(#sh)">
-<rect x="20" y="50" width="160" height="190" fill="#c41e24"/>
-<rect x="20" y="50" width="160" height="62" fill="#1f4fa0"/>
-<!-- rising sun: nur, the light -->
-<g fill="url(#gold)" stroke="#8a6414" stroke-width="1">
-<path d="M70 112 A30 30 0 0 1 130 112 Z"/>
-<g id="ray"><path d="M100 72 L104 80 L96 80 Z"/></g>
-<use xlink:href="#ray" transform="rotate(-60 100 112)"/><use xlink:href="#ray" transform="rotate(-30 100 112)"/>
-<use xlink:href="#ray" transform="rotate(30 100 112)"/><use xlink:href="#ray" transform="rotate(60 100 112)"/>
-<use xlink:href="#ray" transform="rotate(-80 100 112)"/><use xlink:href="#ray" transform="rotate(80 100 112)"/>
-</g>
-<rect x="20" y="111" width="160" height="3" fill="#f3d36b"/>
-<!-- gear wheel with refinery column -->
-<g transform="translate(100 150)">
-<g fill="url(#gold)" stroke="#5c4010" stroke-width="1.4">
-<circle r="26"/>
-<g id="tooth"><rect x="-5" y="-34" width="10" height="10" rx="1"/></g>
-<use xlink:href="#tooth" transform="rotate(30)"/><use xlink:href="#tooth" transform="rotate(60)"/><use xlink:href="#tooth" transform="rotate(90)"/>
-<use xlink:href="#tooth" transform="rotate(120)"/><use xlink:href="#tooth" transform="rotate(150)"/><use xlink:href="#tooth" transform="rotate(180)"/>
-<use xlink:href="#tooth" transform="rotate(210)"/><use xlink:href="#tooth" transform="rotate(240)"/><use xlink:href="#tooth" transform="rotate(270)"/>
-<use xlink:href="#tooth" transform="rotate(300)"/><use xlink:href="#tooth" transform="rotate(330)"/>
-</g>
-<circle r="17" fill="#c41e24" stroke="#5c4010" stroke-width="1.2"/>
-<g fill="#f6f1e4" stroke="#5c4010" stroke-width="1"><rect x="-4" y="-15" width="8" height="28"/><rect x="-7" y="-9" width="14" height="2.5"/><rect x="-7" y="0" width="14" height="2.5"/></g>
-</g>
-<!-- the Chu: wavy silver bars -->
-<g fill="none" stroke-width="7">
-<path d="M20 196 C35 188 50 204 65 196 S95 188 110 196 S140 204 155 196 S175 190 185 196" stroke="#f6f1e4"/>
-<path d="M20 212 C35 204 50 220 65 212 S95 204 110 212 S140 220 155 212 S175 206 185 212" stroke="#1f4fa0"/>
-</g>
-</g>
-<path d="M30 62 H170 V160 C170 196 140 218 100 228 C60 218 30 196 30 160 Z" fill="none" stroke="#5c4010" stroke-width="4"/>
-<path d="M36 68 H164 V160 C164 192 137 212 100 221 C63 212 36 192 36 160 Z" fill="none" stroke="#f3d36b" stroke-width="1.5"/>
-<!-- motto ribbon -->
-<path d="M18 228 Q100 252 182 228 L188 244 Q100 268 12 244 Z" fill="#1f4fa0" stroke="#5c4010" stroke-width="1.5" transform="translate(0 -8)"/>
-<text x="100" y="243" text-anchor="middle" font-family="'Times New Roman',Times,serif" font-weight="bold" font-size="15" fill="#f3d36b" letter-spacing="3">НУРЖАН</text>
+<path d="M40,40 H200 V74 H40 Z" fill="#1f5ca8" stroke="#1a1a1a" stroke-width="1"/>
+<path d="M65.7763671875 66.0V58.626953125H58.28125V66.0H54.68017578125V48.80029296875H58.28125V55.6484375H65.7763671875V48.80029296875H69.37744140625V66.0Z M80.224609375 66.244140625Q79.35791015625 66.244140625 78.50341796875 66.030517578125Q77.64892578125 65.81689453125 77.13623046875 65.51171875L78.13720703125 62.5087890625Q79.2236328125 63.021484375 80.09033203125 63.021484375Q80.6640625 63.021484375 81.072998046875 62.8017578125Q81.48193359375 62.58203125 81.842041015625 62.099853515625Q82.2021484375 61.61767578125 82.861328125 60.17724609375L76.07421875 48.80029296875H79.82177734375L84.55810546875 57.10107421875L88.19580078125 48.80029296875H91.845703125L85.43701171875 62.1181640625Q84.5947265625 63.8759765625 83.892822265625 64.687744140625Q83.19091796875 65.49951171875 82.318115234375 65.871826171875Q81.4453125 66.244140625 80.224609375 66.244140625Z M112.43408203125 54.24462890625Q112.43408203125 55.90478515625 111.67724609375 57.2109375Q110.92041015625 58.51708984375 109.510498046875 59.231201171875Q108.1005859375 59.9453125 106.15966796875 59.9453125H101.88720703125V66.0H98.2861328125V48.80029296875H106.01318359375Q109.1015625 48.80029296875 110.767822265625 50.222412109375Q112.43408203125 51.64453125 112.43408203125 54.24462890625ZM108.80859375 54.3056640625Q108.80859375 51.595703125 105.6103515625 51.595703125H101.88720703125V57.17431640625H105.7080078125Q107.197265625 57.17431640625 108.0029296875 56.435791015625Q108.80859375 55.697265625 108.80859375 54.3056640625Z M127.88330078125 66.0V58.529296875Q127.49267578125 58.529296875 127.022705078125 58.431640625Q126.552734375 58.333984375 126.3330078125 58.1875L122.07275390625 66.0H118.21533203125L123.76953125 56.478515625Q123.22021484375 56.0634765625 121.81640625 53.7685546875L118.75244140625 48.80029296875H122.41455078125L124.83154296875 52.75537109375Q126.17431640625 54.92822265625 126.73583984375 55.520263671875Q127.29736328125 56.1123046875 127.87109375 56.1123046875V48.80029296875H131.337890625V56.1123046875Q131.91162109375 56.1123046875 132.47314453125 55.532470703125Q133.03466796875 54.95263671875 134.3896484375 52.75537109375L136.806640625 48.80029296875H140.46875L137.40478515625 53.7685546875Q136.0009765625 56.0634765625 135.45166015625 56.478515625L141.005859375 66.0H137.1484375L132.88818359375 58.1875Q132.20458984375 58.529296875 131.337890625 58.529296875V66.0Z M159.71435546875 66.0 158.1884765625 61.60546875H151.63330078125L150.107421875 66.0H146.50634765625L152.78076171875 48.80029296875H157.02880859375L163.27880859375 66.0ZM154.90478515625 51.44921875 154.83154296875 51.7177734375Q154.70947265625 52.1572265625 154.53857421875 52.71875Q154.36767578125 53.2802734375 152.43896484375 58.8955078125H157.3828125L155.68603515625 53.95166015625L155.1611328125 52.29150390625Z M181.70654296875 66.0V58.626953125H174.21142578125V66.0H170.6103515625V48.80029296875H174.21142578125V55.6484375H181.70654296875V48.80029296875H185.3076171875V66.0Z" fill="#f0c02a" stroke="#5a3d05" stroke-width=".4"/>
+<path d="M40,74 H200" stroke="#f0c02a" stroke-width="3"/><path d="M40,72.5 H200 M40,75.5 H200" stroke="#1a1a1a" stroke-width=".6"/>
+<path d="M40,40 H200 V196 C200,236 166,254 120,266 C74,254 40,236 40,196 Z" fill="none" stroke="#1a1a1a" stroke-width="2.2"/>
 </svg>
